@@ -22,7 +22,7 @@ CrT和MT都使用一门封装语言ZenScript(下文简称ZS)作为底版, 你需
 
 1.12.2请使用CrT，1.7.10请使用MT。不是说1.12.2没有MT，也不是说1.7.10没有CrT，是因为这两个模组在对应的版本发挥最好，在其它版本多少沾点瘸腿(CrT除外，其在更高版本上也是首选)。
 
-以及一些几乎必装的附属:
+以及一些几乎必装的附属/推荐模组:
 
 Crt：[ContentTweaker](https://www.curseforge.com/minecraft/mc-mods/contenttweaker)(下文简称CoT),允许你简单创建自定义物品，方块等游戏内容；[ModTweaker](https://www.curseforge.com/minecraft/mc-mods/modtweaker), 为CrT添加更多模组兼容。
 

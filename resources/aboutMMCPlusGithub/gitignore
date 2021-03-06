@@ -1,0 +1,54 @@
+#From https://github.com/ProjectHDS/Herodotus/blob/master/.gitignore
+
+#Whitelist
+/*
+/.minecraft/*
+
+#pack stuff
+!/.minecraft/config/
+/.minecraft/config/agricraft/json/defaults/*
+/.minecraft/config/enderio/recipes/*
+/.minecraft/config/tellme/*
+/.minecraft/config/InvTweaks.cfg
+/.minecraft/config/jei/worldSettings.cfg
+/.minecraft/config/jei/bookmarks.ini
+/.minecraft/config/AppliedEnergistics2/items.csv
+/.minecraft/config/AppliedEnergistics2/CustomRecipes.cfg
+/.minecraft/config/AppliedEnergistics2/VersionChecker.cfg
+/.minecraft/config/biomesoplenty/biomes/defaults/*
+/.minecraft/config/biomesoplenty/biomes/Put biome config files here
+/.minecraft/config/astralsorcery/amulet_enchantments.cfg
+/.minecraft/config/AE2Stuff/readme.txt
+/.minecraft/config/vanillafix/methods-stable_39.csv
+/.minecraft/config/brandon3055/contributors.json
+/.minecraft/config/ichunutil_keybinds.cfg
+/.minecraft/config/journeymap_ModInfo.cfg
+/.minecraft/config/journeymap_server.cfg
+/.minecraft/config/betterfps.json
+/.minecraft/config/blur.cfg
+/.minecraft/config/codechicken/supporters.json
+/.minecraft/config/codechicken/supporters.marker
+/.minecraft/config/enderio/painter_paint_sources_core.xml
+/.minecraft/config/enderio/painter_paint_sources_user.xml
+/.minecraft/config/jei/itemBlacklist.cfg
+
+!/.minecraft/patchouli_books
+!/.minecraft/resources
+!/.minecraft/scripts
+/.minecraftscripts/nc_script_addons
+!/.minecraft/structures
+
+!/.minecraft/icon.png
+
+#repo stuff
+!/docs
+!/.gitignore
+!/LICENSE
+!/README.md
+!/CHANGELOG
+!/icon.png
+
+/instance.cfg
+/mmc-pack.json
+!/modlist.html
+!/manifest.json

@@ -5,6 +5,7 @@
 Modded Minecraft player, 1.12.2 modpacker, Adobe softwares user, ArchLinux user.
 
 TeamMoeg member, lead dev of the [Herodotus](https://github.com/ProjectHDS/Herodotus) modpack.
+
 ---
 Connections:
 

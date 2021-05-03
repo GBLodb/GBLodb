@@ -1,4 +1,4 @@
-本文与[P.M.D.E.](https://github.com/GBLodb/GBLodb/blob/main/personalModpackDevExperience.md)不同, 讲解了本人的MultiMC+GitHub联动方案及部署教程. 不见得是最好的方案, 但依然是本人自己最得心应手的方案.
+本文与[P.M.D.E.](https://github.com/GBLodb/GBLodb/blob/master/personalModpackDevExperience.md)不同, 讲解了本人的MultiMC+GitHub联动方案及部署教程. 不见得是最好的方案, 但依然是本人自己最得心应手的方案.
 
 ---
 

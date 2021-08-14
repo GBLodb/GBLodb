@@ -18,7 +18,13 @@ Lead dev of the [Herodotus](https://github.com/ProjectHDS/Herodotus) modpack, an
 ---
 Connections:
 
+DO NOT CONTACT ME THOUGH EMAIL, MCBBS OR MCMOD, IT TAKES AWFULLY LONG FOR ME TO RECIVE YOUR MESSAGE.
+
+IF YOU ARE FROM MAINLAND CHINA, USE QQ, IF YOU ARE NOT, USE DISCORD.
+
 Mail: garybluis@outlook.com
+
+QQ: 3283843753
 
 Discord: Gary Bryson Luis Jr.#9911
 

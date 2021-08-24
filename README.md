@@ -31,5 +31,3 @@ Discord: Gary Bryson Luis Jr.#9911
 MCMOD: https://center.mcmod.cn/166028/
 
 MCBBS: https://www.mcbbs.net/home.php?mod=space&uid=3716147
-
-I don't own or maintain any personl website or blog.

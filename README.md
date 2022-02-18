@@ -9,7 +9,9 @@ GBLodb stands for **G**ary **B**ryson **L**uis **o**n **d**a **b**eat, don't jud
 
 Modded Minecraft player and 1.12.2 modpacker/modder, Majsoul player, SQUARE ENIX/4A player, Adobe softwares user, MultiMC user, ArchLinux/Win10WIP user, Steam/UbiConnect/Epic user.
 
-Fake CraftTweaker/IntelliJ IDEA user, bad ZenScript/Java/Python/Kotlin/Rust learner. However if you're **that** helpless that you wanna ask me to write some code for you, I won't refuse if I got the time and the mood.
+Fake CraftTweaker/IntelliJ IDEA/Rider/CLion user, bad ZenScript/Java/Python/Kotlin/Rust/CSharp learner. However if you're **that** helpless that you wanna ask me to write some code for you, I won't refuse if I got the time and the mood.
+
+Learning Unity3D recently, haven't thought of a great indie game idea.
 
 Minecraft modpacker and modder with zero modpack or mod published, nobody cares what so ever.
 
@@ -23,8 +25,6 @@ DO NOT CONTACT ME THOUGH EMAIL, MCBBS OR MCMOD, IT TAKES AWFULLY LONG FOR ME TO 
 IF YOU ARE FROM MAINLAND CHINA, USE QQ, IF YOU ARE NOT, USE DISCORD.
 
 Mail: garybluis@outlook.com
-
-QQ: 3283843753
 
 Discord: Gary Bryson Luis Jr.#9911
 

@@ -1,6 +1,9 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GBLodb)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GBLodb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/GBLodb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GBLodb&show_icons=true&title_color=FF9D00&text_color=E5E5E5&bg_color=4D4D4D&border_color=191919" />
+</a>
+<a href="https://github.com/GBLodb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBLodb&layout=compact&title_color=FF9D00&text_color=E5E5E5&bg_color=4D4D4D&border_color=191919" />
+</a>
 
 ---
 **G**ary **B**ryson **L**uis **Jr.** on GitHub, just simply call me Gary, or GBL.

@@ -39,7 +39,7 @@ jobs:
           plugin_people_limit: 28
           plugin_people_size: 28
           
-          plugin_starlists: yes
+          plugin_stars: yes
 
       - name: Personal metrics (additional)
         uses: lowlighter/metrics@master
@@ -67,3 +67,4 @@ jobs:
           plugin_topics_mode: mastered
 
           plugin_repositories: yes
+          plugin_repositories_featured: ProjectHDS/Herodotus

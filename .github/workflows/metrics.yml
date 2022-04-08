@@ -1,0 +1,69 @@
+name: GitHub metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  watch:
+    types: started
+#每天上午六点更新    
+  push:
+    branches: "master"
+  workflow_dispatch:
+jobs:
+  github-metrics-personal:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Personal metrics
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.ACTION_TOKEN }}
+          user: GBLodb
+          config_timezone: Asia/ShangHai
+          config_order: base.header, isocalendar, base.repositories, followup, pagespeed, people
+          config_padding: 10%
+          use_prebuilt_image: master
+          base: "header, repositories"
+          plugin_isocalendar: yes
+          #          plugin_isocalendar_duration: full-year
+          plugin_lines: yes
+          plugin_traffic: yes
+
+          plugin_followup: yes
+
+          plugin_pagespeed: no
+          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_url: ''
+          plugin_people: yes
+          plugin_people_types: followers, following
+          plugin_people_limit: 28
+          plugin_people_size: 28
+          
+          plugin_starlists: yes
+
+      - name: Personal metrics (additional)
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.additional.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.ACTION_TOKEN }}
+          user: GBLodb
+          config_timezone: Asia/ShangHai
+          config_order: habits, stargazers, languages, stargazers, topics
+          config_padding: 10%
+          use_prebuilt_image: master
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          plugin_stargazers: yes
+
+          plugin_languages: yes
+          plugin_languages_ignored: css, tex, less, makefile, qmake, lex, cmake, gnuplot
+          plugin_languages_skipped: lowlighter
+
+          plugin_topics: yes
+          plugin_topics_mode: mastered
+
+          plugin_repositories: yes

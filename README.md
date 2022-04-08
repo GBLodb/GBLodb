@@ -1,4 +1,4 @@
-| <img alt="🦑" width="400px" src="https://github.com/GBLodb/GBLodb/blob/master/metrics.svg">|<img alt="🦑" width="400px" src="https://github.com/GBLodb/GBLodb/blob/master/metrics.additional.svg">|
+| <img alt="🦑" width="400px" src="https://github.com/GBLodb/GBLodb/raw/master/metrics.svg">|<img alt="🦑" width="400px" src="https://raw.githubusercontent.com/GBLodb/GBLodb/master/metrics.additional.svg">|
 | ------------- |  ------------- | 
 
 ---
@@ -12,8 +12,6 @@ Modded Minecraft player and 1.12.2 modpacker/modder, Majsoul player, SQUARE ENIX
 Adobe softwares user, MultiMC user, ArchLinux/Win10WIP user, Steam/UbiConnect/Epic user.
 
 Fake CraftTweaker/IntelliJ IDEA/Rider/CLion user, bad ZenScript/Java/Python/Kotlin/Rust/CSharp learner.
-
-However if you're **that** helpless that you wanna ask me to write some code for you, I won't refuse if I got the time and the mood.
 
 Learning Unity3D recently, haven't thought of a great indie game idea.
 

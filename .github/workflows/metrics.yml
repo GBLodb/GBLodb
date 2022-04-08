@@ -20,26 +20,28 @@ jobs:
           committer_token: ${{ secrets.ACTION_TOKEN }}
           user: GBLodb
           config_timezone: Asia/ShangHai
-          config_order: base.header, isocalendar, base.repositories, followup, pagespeed, people
+          config_order: base.header, isocalendar, base.repositories, pagespeed, people
           config_padding: 10%
           use_prebuilt_image: master
           base: "header, repositories"
+          
           plugin_isocalendar: yes
-          #          plugin_isocalendar_duration: full-year
-          plugin_lines: yes
-          plugin_traffic: yes
 
-          plugin_followup: yes
+          plugin_lines: yes
+
+          plugin_traffic: yes
 
           plugin_pagespeed: no
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_url: ''
+          
           plugin_people: yes
           plugin_people_types: followers, following
           plugin_people_limit: 28
           plugin_people_size: 28
           
           plugin_stars: yes
+
 
       - name: Personal metrics (additional)
         uses: lowlighter/metrics@master
@@ -49,21 +51,25 @@ jobs:
           committer_token: ${{ secrets.ACTION_TOKEN }}
           user: GBLodb
           config_timezone: Asia/ShangHai
-          config_order: habits, stargazers, languages, stargazers, topics
+          config_order: followup, habits, stargazers, languages, repositories, activity
           config_padding: 10%
           use_prebuilt_image: master
           base: ""
+
+          plugin_followup: yes
+
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_facts: no
           plugin_habits_charts: yes
+
           plugin_stargazers: yes
 
           plugin_languages: yes
           plugin_languages_ignored: css, tex, less, makefile, qmake, lex, cmake, gnuplot
           plugin_languages_skipped: lowlighter
 
-          plugin_activity: yes
-
           plugin_repositories: yes
           plugin_repositories_featured: ProjectHDS/Herodotus
+
+          plugin_activity: yes

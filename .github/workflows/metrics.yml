@@ -48,7 +48,7 @@ jobs:
         with:
           filename: metrics.additional.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.ACTION_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: GBLodb
           config_timezone: Asia/ShangHai
           config_order: followup, habits, stargazers, languages, repositories, activity

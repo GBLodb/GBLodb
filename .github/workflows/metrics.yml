@@ -74,3 +74,4 @@ jobs:
 
           plugin_activity: yes
           plugin_activity_limit: 4
+          plugin_activity_visibility: public

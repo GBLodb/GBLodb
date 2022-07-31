@@ -66,7 +66,7 @@ jobs:
           plugin_stargazers: yes
 
           plugin_languages: yes
-          plugin_languages_ignored: css, tex, less, makefile, qmake, lex, cmake, gnuplot
+          plugin_languages_ignored: html, css, tex, less, makefile, qmake, lex, cmake, gnuplot
           plugin_languages_skipped: lowlighter
 
           plugin_repositories: yes

@@ -68,6 +68,9 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, makefile, qmake, lex, cmake, gnuplot
           plugin_languages_skipped: lowlighter
+          plugin_languages_indepth: yes
+          plugin_languages_details: lines, bytes-size
+          plugin_languages_limit: 6
 
           plugin_repositories: yes
           plugin_repositories_featured: ProjectHDS/Herodotus

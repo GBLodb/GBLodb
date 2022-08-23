@@ -104,14 +104,15 @@ ZenScript是一门封装语言, 本身并不是很难学习(其实也没太多�
 ```
 $ cat .gitignore
 #Whitelist
-/*
+*
+!*/
 
 #Folders
-!/config/
-!/patchouli_books
-!/resources
-!/scripts
-!/structures
+!/config/**
+!/patchouli_books/**
+!/resources/**
+!/scripts/**
+!/structures/**
 
 #Files
 !/.gitignore

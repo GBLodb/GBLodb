@@ -7,14 +7,14 @@
 
 GBLodb stands for **G**ary **B**ryson **L**uis **o**n **d**a **b**eat, don't judge me, I just came up with it all of a sudden.
 
-Modded Minecraft player and 1.12.2 modpacker/modder, Majsoul player, SQUARE ENIX/4A player,
+Personal blog repository: [GBLodb/the-notion](https://github.com/GBLodb/the-notion), could have some updates anytime.
 
-Adobe softwares user, MultiMC user, ArchLinux/Win10WIP user, Steam/UbiConnect/Epic user.
+Modded Minecraft plaer, SQUARE ENIX/4A player, former director of many Modded Minecraft related projects/organizations.
 
-Fake CraftTweaker/IntelliJ IDEA/Rider/CLion user, bad ZenScript/Java/Python/Kotlin/Rust/CSharp learner.
+Adobe softwares user, PolyMC user, ArchLinux/Win10WIP user, Steam/UbiConnect/Epic user.
+
+Fake CraftTweaker/IntelliJ IDEA/Rider/CLion user, bad ZenScript/Java/Python/Kotlin/Rust/CSharp/Ada learner.
 
 Learning Unity3D recently, haven't thought of a great indie game idea.
 
-Minecraft modpacker and modder with zero modpack or mod published, nobody cares what so ever.
-
-Lead dev of the [Herodotus](https://github.com/ProjectHDS/Herodotus) modpack, and the head of [ProjectHDS](https://github.com/ProjectHDS).
+No Minecraft-related development work will take place for the foreseeable future.

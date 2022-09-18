@@ -17,4 +17,8 @@ Fake CraftTweaker/IntelliJ IDEA/Rider/CLion user, bad ZenScript/Java/Python/Kotl
 
 Learning Unity3D recently, haven't thought of a great indie game idea.
 
+Also learning Scala, Hadoop, multiple filesystems and databases, ApacheStack(Spark, Hive, Kafka, etc.), going further and further on the road of becoming a data scientist.
+
+Yes I'm still watching TensorFlow/Torch courses and really interested in machine learning but god do I hate writing algorithms in Python.
+
 No Minecraft-related development work will take place for the foreseeable future.

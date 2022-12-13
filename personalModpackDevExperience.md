@@ -45,9 +45,13 @@ ZenScript是一门封装语言, 本身并不是很难学习(其实也没太多�
 
 ![](image/personalModpackDevExperience/1615008091699.png)
 
-3. 依次搜索并安装ZenScript(yesterday17), Rainbow Brackets(2gua), Minecraft Lang Colorizer(zz5840)和mcmeta(xTeal). 如有需要可另外安装GitLens-Git supercharged(Eric Amodio)和Tabnine Autocomplete(TabNine)
+3. 依次搜索并安装ZenScript(yesterday17), ~~Rainbow Brackets(2gua)~~, Minecraft Lang Colorizer(zz5840)和mcmeta(xTeal). 如有需要可另外安装GitLens-Git supercharged(Eric Amodio)和Tabnine Autocomplete(TabNine)
 
+VSCode 在 Aug 2021 更新中内置了[括号颜色配对](https://code.visualstudio.com/updates/v1_60#_high-performance-bracket-pair-colorization), 无需再额外安装 Rainbow Brackets 插件.
+
+<!--
 ![](image/personalModpackDevExperience/1615008160198.png)![](image/personalModpackDevExperience/1615008168282.png)
+-->
 
 ![](image/personalModpackDevExperience/1615008307329.png)![](image/personalModpackDevExperience/1615008325113.png)
 

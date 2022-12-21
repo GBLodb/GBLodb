@@ -305,13 +305,8 @@
                             <div class="entry">
                                 <span class="value">20</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                7
-                                <div class="bottom">Dec.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 8
+                                <div class="bottom">Dec.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -373,6 +368,11 @@
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 20
                             </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                21
+                            </div>
                         </div>
                     </section>
                     <section class="column chart chartist">
@@ -381,13 +381,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                7
-                                <div class="bottom">Dec.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 8
+                                <div class="bottom">Dec.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -449,6 +444,11 @@
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 20
                             </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                21
+                            </div>
                         </div>
                     </section>
                 </div>
@@ -463,21 +463,33 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.96mb of code in 1047 edited files across 162 commits</small>
+                <small>estimation from 23.3mb of code in 6176 edited files across 786 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="189.15725383161873" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="189.15725383161873" y="0" width="134.89985303380223" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="324.05710686542096" y="0" width="96.48120932185597" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="420.5383161872769" y="0" width="18.94856183077892" height="8" fill="#02f88c"/>
-                    <rect mask="url(#languages-bar)" x="439.4868780180558" y="0" width="12.786899013226957" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="452.27377703128275" y="0" width="7.726222968717195" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="132.4647501889546" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="132.4647501889546" y="0" width="131.51763142119938" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="263.982381610154" y="0" width="117.40676066616277" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="381.38914227631676" y="0" width="56.119784200787095" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="437.50892647710384" y="0" width="11.761057103390758" height="8" fill="#02f88c"/>
+                    <rect mask="url(#languages-bar)" x="449.2699835804946" y="0" width="10.730016419505331" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Python
+                            </div>
+                            <small>
+                                <div>326 lines</div>
+                                <div>11 kB</div>
+                            </small>
+                        </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -493,25 +505,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#02f88c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                Ada
                             </div>
                             <small>
-                                <div>123 lines</div>
-                                <div>5 kB</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Shell
-                            </div>
-                            <small>
-                                <div>16 lines</div>
-                                <div>662 bytes</div>
+                                <div>45 lines</div>
+                                <div>981 bytes</div>
                             </small>
                         </div>
                     </section>
@@ -524,32 +524,32 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>216 lines</div>
-                                <div>6.98 kB</div>
+                                <div>337 lines</div>
+                                <div>10.9 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#02f88c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Ada
+                                C#
                             </div>
                             <small>
-                                <div>45 lines</div>
-                                <div>981 bytes</div>
+                                <div>207 lines</div>
+                                <div>4.68 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JavaScript
+                                Shell
                             </div>
                             <small>
-                                <div>26 lines</div>
-                                <div>400 bytes</div>
+                                <div>25 lines</div>
+                                <div>895 bytes</div>
                             </small>
                         </div>
                     </section>

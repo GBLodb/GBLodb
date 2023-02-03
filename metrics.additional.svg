@@ -300,13 +300,8 @@
                             <div class="entry">
                                 <span class="value">24</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                20
-                                <div class="bottom">Jan.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 21
+                                <div class="bottom">Jan.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -368,6 +363,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 2
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                3
                             </div>
                         </div>
                     </section>
@@ -377,13 +377,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                20
-                                <div class="bottom">Jan.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 21
+                                <div class="bottom">Jan.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -445,6 +440,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 2
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                3
                             </div>
                         </div>
                     </section>
@@ -460,31 +460,31 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 23.2mb of code in 5999 edited files across 769 commits</small>
+                <small>estimation from 25.5mb of code in 7174 edited files across 895 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="147.8213070412704" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="147.8213070412704" y="0" width="131.01765407323387" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="278.83896111450423" y="0" width="93.43687287322223" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="372.2758339877265" y="0" width="62.6257161969578" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="434.9015501846843" y="0" width="13.124509205130444" height="8" fill="#02f88c"/>
-                    <rect mask="url(#languages-bar)" x="448.02605938981475" y="0" width="11.973940610185265" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="223.1089399416204" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="223.1089399416204" y="0" width="79.38807301985814" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="302.49701296147856" y="0" width="76.319968541569" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="378.81698150304754" y="0" width="68.1313994464526" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="446.9483809495001" y="0" width="6.8249671047656495" height="8" fill="#02f88c"/>
+                    <rect mask="url(#languages-bar)" x="453.7733480542658" y="0" width="6.226651945734206" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                C#
                             </div>
                             <small>
-                                <div>326 lines</div>
-                                <div>11 kB</div>
+                                <div>1.24k lines</div>
+                                <div>32 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -495,8 +495,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>216 lines</div>
-                                <div>6.98 kB</div>
+                                <div>337 lines</div>
+                                <div>10.9 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -516,6 +516,18 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Python
+                            </div>
+                            <small>
+                                <div>339 lines</div>
+                                <div>11.4 kB</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 Java
@@ -523,18 +535,6 @@
                             <small>
                                 <div>238 lines</div>
                                 <div>9.79 kB</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                C#
-                            </div>
-                            <small>
-                                <div>207 lines</div>
-                                <div>4.68 kB</div>
                             </small>
                         </div>
                         <div class="field language details">

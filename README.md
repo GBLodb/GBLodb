@@ -5,7 +5,7 @@
 
 **G**ary **B**ryson **L**uis **Jr.** on GitHub, just simply call me Gary, or GBL.
 
-Modded Minecraft player, former director of many Modded Minecraft related projects/organizations, now the head of [ProjectHDS](https://github.com/ProjectHDS).
+Modded Minecraft player, former director of many Modded Minecraft related projects/organizations.
 
 No Minecraft-related development work will take place for the foreseeable future, don't even ask.
 
